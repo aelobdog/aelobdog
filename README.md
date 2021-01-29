@@ -7,4 +7,8 @@
 - 🕸 Check out some of my projects on my [website](https://aelobdog.github.io) !
 - 📫 How to reach me: Feel free to drop me an email at dev.godboleashwin@gmail.com !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelobdog&layout=compact&exclude_repo=siteflon,aelobdog.github.io)](https://github.com/anuraghazra/github-readme-stats)
+### Programming Languages I enjoy writing code in
+- <img src="https://img.icons8.com/wired/64/000000/c-programming.png"/>
+- <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+- rust
+- zig
