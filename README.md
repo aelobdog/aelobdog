@@ -8,7 +8,7 @@
 - 📫 How to reach me: Feel free to drop me an email at dev.godboleashwin@gmail.com !
 
 ### Programming Languages I enjoy writing code in
-- <img src="https://img.icons8.com/wired/64/000000/c-programming.png"/>
-- <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-- rust
+- c
+- go
 - zig
+- rust
