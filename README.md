@@ -7,4 +7,4 @@
 - 🕸 Check out some of my projects on my [website](https://aelobdog.github.io) !
 - 📫 How to reach me: Feel free to drop me an email at dev.godboleashwin@gmail.com !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelobdog&layout=compact&exclude_repo=siteflon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelobdog&layout=compact&exclude_repo=siteflon,aelobgod.github.io)](https://github.com/anuraghazra/github-readme-stats)
