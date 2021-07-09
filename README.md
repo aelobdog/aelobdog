@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a 8086 emulator named [cuppu86](https://github.com/aelobdog/cuppu86) !
+- 🔭 I’m currently working on a CHIP8 interpreter named [crisp](https://github.com/aelobdog/crisp) !
 - 🌱 I’m currently learning to speak Korean !
-- 😄 I like to write tools similar to those that I use on a daily basis in order to understand how they work.
 - 📺 I like watching anime, k-dramas, and most other tv shows out there.
 - 🕸 Check out some of my projects on my [website](https://aelobdog.github.io) !
-- 📫 How to reach me: Feel free to drop me an email at dev.godboleashwin@gmail.com !
+- 📫 How to reach me: Drop me an email at dev.godboleashwin@gmail.com !
 
-### Programming Languages I enjoy writing code in
+### Programming Languages I find fun or interesting to work with
 - c
 - go
 - zig
-- rust
+- c++
+- odin
