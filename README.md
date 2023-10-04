@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently not actively working on aything particular
-- 📺 I like watching anime, k-dramas, and most other tv shows out there.
 - 🕸 Check out some of my projects on my [website](https://aelobdog.github.io) !
 - 📝 I write random stuff on a "blog". You can find it [here](https://aelobdog.github.io/aelobdog-writes)
 - 📫 Drop me an email at dev.godboleashwin@gmail.com
